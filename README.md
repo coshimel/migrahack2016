@@ -15,7 +15,7 @@ https://docs.google.com/spreadsheets/d/18grE3TuAWZtZDFF1mSIvaAjzptsn2MFSny8_XG7b
 <h2>item two</h2>
 <a href="https://s3.amazonaws.com/uploads.knightlab.com/storymapjs/e9bcce6cc430b66c743a294b9f8554d3/stories/draft.html">Sanctuary City?</a>
 
-Tools used:
+<h2>Tools used</h2>
 <ul>
   <li>WordPress with Bootstrap-based theme</li>
   <li>Google Sheets</li>
