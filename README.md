@@ -9,14 +9,16 @@ Method: We used data given to us by the instructors
 Chicagodetainers.csv: https://docs.google.com/spreadsheets/d/18grE3TuAWZtZDFF1mSIvaAjzptsn2MFSny8_XG7bktA/edit?usp=sharing
 
 Tools used:
-  WordPress with Bootstrap-based theme
-  Google Sheets
-  Premiere Pro
-  Inkscape
-  GIMP
-  CartoDB
-  YouTube
-  Timeline.js
-  Storymap.js
-  DSLR Camera
-  WTF CSV
+<ul>
+  <li>WordPress with Bootstrap-based theme</li>
+  <li>Google Sheets</li>
+  <li>Premiere Pro</li>
+  <li>Inkscape</li>
+  <li>GIMP</li>
+  <li>CartoDB</li>
+  <li>YouTube</li>
+  <li>Timeline.js</li>
+  <li>Storymap.js</li>
+  <li>DSLR Camera</li>
+  <li>WTF CSV</li>
+</ul>
